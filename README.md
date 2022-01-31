@@ -1,5 +1,6 @@
 # Ejercicios-Python
-Tarea 6 ejercicios python
+Tarea 6 ejercicios python:
+
 	-m cuando add
 	-am cuando se modifican
 # ENUNCIADOS 
