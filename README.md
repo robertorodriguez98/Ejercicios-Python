@@ -9,4 +9,6 @@ Tarea 6 ejercicios python:
 	* El precio medio de los artículos.
 	* El nombre de los artículos que valen más de 100 euros.
 	* Nos pedirá un nombre de un artículo y si existe nos dará su precio, sino nos dará un error.
+2. Repite el ejercicio 1 con la siguiente estructura de datos: vamos a usar una lista artículos donde vamos a guardar listas con dos elementos: el nombre del artículo y su precio. Ejemplo: 
+	articulos=[["fregona",12],["cepillo",14],["recogerdor",23]]
 
